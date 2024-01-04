@@ -3,7 +3,7 @@ import java.util.Date;
 import java.util.Random;
 import java.util.Scanner;
 
-public class App {
+public class PinjamBuku {
     // Daftar buku yang tersedia
     private static Buku[] daftarBuku = { 
         new Buku("Harry Potter"),
